@@ -117,7 +117,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "BMI"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
