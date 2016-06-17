@@ -1,1 +1,10 @@
 C:\Users\AKenta\Documents\BMI_Calculation\BMI_Culclation\BMI_Culclation\bin\Debug\BMI_Culclation.exe.config
+C:\Users\AKenta\Documents\BMI_Calculation\BMI_Culclation\BMI_Culclation\obj\Debug\BMI_Culclation.Form1.resources
+C:\Users\AKenta\Documents\BMI_Calculation\BMI_Culclation\BMI_Culclation\obj\Debug\BMI_Culclation.Resources.resources
+C:\Users\AKenta\Documents\BMI_Calculation\BMI_Culclation\BMI_Culclation\obj\Debug\BMI_Culclation.vbproj.GenerateResource.Cache
+C:\Users\AKenta\Documents\BMI_Calculation\BMI_Culclation\BMI_Culclation\bin\Debug\BMI_Culclation.exe
+C:\Users\AKenta\Documents\BMI_Calculation\BMI_Culclation\BMI_Culclation\bin\Debug\BMI_Culclation.pdb
+C:\Users\AKenta\Documents\BMI_Calculation\BMI_Culclation\BMI_Culclation\bin\Debug\BMI_Culclation.xml
+C:\Users\AKenta\Documents\BMI_Calculation\BMI_Culclation\BMI_Culclation\obj\Debug\BMI_Culclation.exe
+C:\Users\AKenta\Documents\BMI_Calculation\BMI_Culclation\BMI_Culclation\obj\Debug\BMI_Culclation.xml
+C:\Users\AKenta\Documents\BMI_Calculation\BMI_Culclation\BMI_Culclation\obj\Debug\BMI_Culclation.pdb
